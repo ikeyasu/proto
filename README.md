@@ -1,2 +1,2 @@
 # proto
-prototyping projects (all projects are whip)
+prototyping projects (all projects are work in progress)
