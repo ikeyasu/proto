@@ -1,6 +1,6 @@
 
 |項目|変更値|
-|:---|--:|---:|
+|:---|---:|
 |Flash Mode|QIO|
 |Flash Frequency|40MHz|
 |Upload Using|Serial|
@@ -11,3 +11,5 @@
 |Reset Method|nodemcu|
 |Upload Speed|115200|
 |port|開発ボードのCOM番号|　　
+|:---|---:|
+|書き込み装置|Arduino as ISP|
